@@ -1,1 +1,1 @@
-FROM osjs/osjs:v3
+FROM osjs/osjs:latest
