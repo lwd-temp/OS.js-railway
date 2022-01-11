@@ -1,0 +1,1 @@
+FROM osjs/osjs:latest
